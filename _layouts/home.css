@@ -1,0 +1,106 @@
+p{
+	font-size: 15px;
+}
+a {
+  color: SeaGreen;
+  text-decoration: none;
+}
+img {
+  border-radius: 100%;
+}
+body{
+	background:rgb(210,210,150);
+}
+.cajas{
+	overflow: scroll; 
+	padding: 40px 0px;
+	background-color: #05A8AA;
+	display: inline-block;
+	list-style: none;
+	margin-bottom: 3px;
+	padding: 20px 40px;
+	width: 200px;
+	text-decoration: none;
+	text-transform: uppercase;
+	border: 1px solid #05A8AA;
+	border-radius: 4px;
+	border-style: solid;
+	border-width:4px 2px 4px 2px;
+	border-color: rgb(22, 77, 100);
+	border: 3px solid rgb(22, 77, 100);
+	border-radius: 5px;
+
+}
+
+ * { 
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  /*solid - border is a solid line.
+dashed - border is a series of lines or dashes.
+dotted - border is a series of square dots.
+double - border is two solid black lines.
+groove - border is a groove (or carving).
+inset - border appears to cut into the screen.
+outset - border appears to pop out of the screen.
+ridge - border appears as a picture frame.
+hidden or none*/
+}
+#titlename{ margin: 0 auto;
+  position: relative;}
+.index{}
+.piedepagina{}
+  h1{
+text-transform: uppercase;
+font-weight: 900;
+  font-size: 22px;
+  line-height: 24px;
+  text-align: left;
+   padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+h2, h3{
+font-family:Playfair Display,serif;
+  color: rgb(10,10,50);
+  font-size: 32px;
+   text-align: left;
+  width: 60%;
+  font-weight=500;
+}
+h4,h5{
+}
+#titlename{
+	  text-align: center;
+}
+.resitar{
+	  border-bottom: 1px solid #EEE;
+	  position: relative;
+  top: 6px;
+}
+#titlename,p.recuerdos,.pensamientos{  
+font-style:italic;
+}
+.vozbaja{  
+font-size: 10px;
+}
+.gritar{
+	  font-size: 24px;
+}
+.hablar{  
+font-size: 16px;
+}
+.pensamientos{
+	font-family:Playfair Display,serif;
+}
+.recuerdos{
+	font-family:sanserif;
+}
+
+#el{  
+color: rgb(10,10,50);
+}
+#ella{  
+color: rgb(70,10,10);
+}
+#otro{
+	color: rgb(50,50,50);
+}
